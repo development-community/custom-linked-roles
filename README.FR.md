@@ -47,7 +47,7 @@ Allez dans l'onglet **Bot** ou entrez l'ID de votre bot dans le lien suivant : `
 
 Appuyez sur **Reset Token** pour récupérer votre token.
 
-*(Attention : cette opération réinitialisera votre token et toutes les applications qui y sont connectées seront déconnectées !)
+(*Attention : cette opération réinitialisera votre token et toutes les applications qui y sont connectées seront déconnectées !*)
 
 Ajoutez ensuite au fichier `.env`:
 ```js
@@ -58,9 +58,9 @@ TOKEN=DiscordClientToken
 
 Vous devez aller dans l'onglet **oAuth2** puis **Général** ou mettre l'ID de votre bot dans le lien suivant : `https://discord.com/developers/applications/ID/oauth2/general` pour aller directement à la page **Général** de l'onglet **oAuth2**.
 
-Copiez ensuite l'ID de votre client et appuyez sur **Reset Secret** pour récupérer le secret du client.
+Copiez ensuite l'ID de votre client et appuyez sur **Reset Secret** pour récupérer le Client Secret.
 
-(*Veuillez noter que le fait d'appuyer sur Secret Client déconnectera toutes les applications utilisant le Secret Client actuel !)
+(*Veuillez noter que le fait d'appuyer sur Client Secret déconnectera toutes les applications utilisant le Client Secret actuel !*)
 
 Ajoutez ensuite au fichier `.env`:
 ```js
