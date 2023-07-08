@@ -4,3 +4,6 @@
 # Package file/folder
 package-lock.json
 node_modules
+
+# OS file
+.DS_Store
