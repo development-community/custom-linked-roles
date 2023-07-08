@@ -41,7 +41,7 @@ Tout d'abord, vous devez configurer votre Bot pour qu'il puisse fonctionner corr
 
 2. Information à récupérer
 
-&emsp;&emsp;2.1 Le token de votre Bot
+&emsp;&emsp;2.1. Le token de votre Bot
 
 Allez dans l'onglet **Bot** ou entrez l'ID de votre bot dans le lien suivant : `https://discord.com/developers/applications/ID/bot` pour aller directement à la page **Bot**.
 
@@ -54,7 +54,7 @@ Ajoutez ensuite au fichier `.env`:
 TOKEN=DiscordClientToken
 ```
 
-&emsp;&emsp;2.2 Les informations Client
+&emsp;&emsp;2.2. Les informations Client
 
 Vous devez aller dans l'onglet **oAuth2** puis **Général** ou mettre l'ID de votre bot dans le lien suivant : `https://discord.com/developers/applications/ID/oauth2/general` pour aller directement à la page **Général** de l'onglet **oAuth2**.
 
@@ -68,7 +68,7 @@ SECRET=DiscordClientSecret
 ID=DiscordClientID
 ```
 
-&emsp;&emsp;2.3 Lien permettant aux utilisateurs de se connecter à Discord
+&emsp;&emsp;2.3. Lien permettant aux utilisateurs de se connecter à Discord
 
 Allez dans l'onglet **oAuth2**, puis **Générateur d'URL**, ou entrez l'ID de votre robot dans le lien suivant : `https://discord.com/developers/applications/ID/oauth2/url-generator` pour aller directement à la page **Générateur d'URL** dans l'onglet **oAuth2**.
 
