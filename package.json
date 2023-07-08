@@ -1,0 +1,16 @@
+{
+  "name": "custom-linked-roles",
+  "version": "1.0.0",
+  "description": "Source code of 'Linked Roles' workshop made in live in our Discord server.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/register.js nodemon src/index.js",
+    "prod": "node src/register.js && node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "r6s-stats-api": "^1.3.0"
+  }
+}
