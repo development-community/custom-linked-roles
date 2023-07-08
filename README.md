@@ -40,7 +40,7 @@ First, you need to configure your Bot so that it can function properly, and retr
 
 2. Information to be retrieved
 
-&emsp;&emsp;2.1 Your Bot token
+&emsp;&emsp;2.1. Your Bot token
 
 Go to the **Bot** tab or enter your bot's ID in the following link: `https://discord.com/developers/applications/ID/bot` to go directly to the **Bot** page.
 
@@ -53,7 +53,7 @@ Then add to the `.env` file:
 TOKEN=DiscordClientToken
 ```
 
-&emsp;&emsp;2.2 Client information
+&emsp;&emsp;2.2. Client information
 
 You need to go to the **oAuth2** tab and then **General** or put your bot's ID in the following link: `https://discord.com/developers/applications/ID/oauth2/general` to go directly to the **General** page of the **oAuth2** tab.
 
@@ -67,7 +67,7 @@ SECRET=DiscordClientSecret
 ID=DiscordClientID
 ```
 
-&emsp;&emsp;2.3 The link for users to connect to Discord
+&emsp;&emsp;2.3. The link for users to connect to Discord
 
 Go to the **oAuth2** tab, then **URL Generator**, or enter your bot's ID in the following link: `https://discord.com/developers/applications/ID/oauth2/url-generator` to go directly to the **URL Generator** page in the **oAuth2** tab.
 
