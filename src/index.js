@@ -76,11 +76,11 @@ app.get('/callback', async (req, res) => {
     /*
         EN:
         In the workshop, the example is with Rainbow Six Siege.
-        So the following lines (Line 64 at Line 68) is optional
+        So the following lines (Line 85 at Line 89) is optional
 
         FR:
         Dans l'atelier, l'exemple porte sur Rainbow Six Siege.
-        Les lignes suivantes (ligne 64 à ligne 68) sont donc facultatives
+        Les lignes suivantes (ligne 85 à ligne 89) sont donc facultatives
     */
     let general = await R6.general('pc', user?.data.global_name);
     
