@@ -46,7 +46,7 @@ Go to the **Bot** tab or enter your bot's ID in the following link: `https://dis
 
 Press **Reset Token** to retrieve your token.
 
-*(Warning: this will reset your token and all applications connected to it will be disconnected!)
+(*Warning: this will reset your token and all applications connected to it will be disconnected!*)
 
 Then add to the `.env` file:
 ```js
@@ -59,7 +59,7 @@ You need to go to the **oAuth2** tab and then **General** or put your bot's ID i
 
 Then copy your customer's ID and press **Reset Secret** to retrieve the customer's secret.
 
-(*Please note that pressing Client Secret will disconnect all applications using the current Client Secret!)
+(*Please note that pressing Client Secret will disconnect all applications using the current Client Secret!*)
 
 Then add to the `.env` file:
 ```js
