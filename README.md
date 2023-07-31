@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Create a custom linked roles with your parameter</h1>
     <p>Source code of <u>Custom Linked roles</u> workshop made in live on our Discord server</p>
-    <p>You can find us on <a href="https://discord.com/invite/dev-community">Discord</a> and <a href="https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g">Youtube</a></p>
+    <p>You can find us on <a href="https://discord.gg/development-community-670988997560107016">Discord</a> and <a href="https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g">Youtube</a></p>
 </div>
 
 <div align="center">
